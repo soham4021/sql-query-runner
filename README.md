@@ -9,6 +9,12 @@ The SQL-Query-Runner is a web-based application that allows users to run some pr
 - Easily switch between different queries by clicking on them
 - User-friendly interface
 
+## Loading Time
+
+
+![Screenshot (79)](https://github.com/soham4021/sql-query-runner/assets/92176024/37f66757-f348-4363-846a-c24dcfe21c9b)
+
+
 ## Documentation
 
 - The application loads with a list of predefined queries on the top. Click on any query in the list to populate the SQL query input with the selected query.You can manually type them too.
@@ -30,7 +36,7 @@ Clone the project
 
 ```
 
-Naviagate to the root directory
+Navigate to the root directory
 
 ```bash
   cd sql-query-runner
